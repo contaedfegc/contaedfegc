@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Portugal<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I tend play games and watch TV</p>
+<p align="left">I'm from Portugal Soalheira<br><br>- 🔭 I’m a student in fundao professional school<br>- 📚 I'm currently learning Python in microsoft VScode<br>- ⚡ In my free time I play games like roblox and watch series/movies.</p>
 
 ###
 
